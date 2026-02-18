@@ -11,7 +11,7 @@
 
 本项目致力于提供无广告、极速、纯净的音乐获取体验。
 
-展示网站：[coco.cqapp.eu.org](coco.cqapp.eu.org)(Vercel)
+展示网站：[coco.cqapp.eu.org](coco.cqapp.eu.org)  (Vercel)
 ## ✨ 主要特性
 
 - 🎵 **多源聚合搜索**：支持全网聚合搜索，内置多种音乐源渠道，一键切换。
