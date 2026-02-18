@@ -15,7 +15,7 @@
 
 展示网站：[https://coco.wmfree.eu.org](https://coco.wmfree.eu.org)  (Netlify)
 
-展示网站：[https://coco.wmapp.dpdns.org](https://coco.wmapp.dpdns.org)  (Netlify)
+展示网站：[https://coco.wmapp.dpdns.org](https://coco.wmapp.dpdns.org)  (Edgeone Pages)
 ## ✨ 主要特性
 
 - 🎵 **多源聚合搜索**：支持全网聚合搜索，内置多种音乐源渠道，一键切换。
