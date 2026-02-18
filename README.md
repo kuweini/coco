@@ -127,7 +127,7 @@ docker run -p 3000:3000 coco-downloader
 
 如果您发现任何问题或有新功能建议，欢迎提交 Issue 或 Pull Request。
 
-仓库地址：[https://github.com/markcxx/coco-downloader](https://github.com/markcxx/coco-downloader)
+仓库地址：[(https://github.com/kuweini/coco)](https://github.com/kuweini/coco)
 
 ## 📄 许可证
 
